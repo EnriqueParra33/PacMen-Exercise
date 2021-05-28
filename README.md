@@ -14,6 +14,8 @@ In this project you can create Pac-Men at a click of a button, it spawns at a ra
 
 ## Roadmap of future improvements
 
+The next steps in this project will be to add styling using CSS and to improve the collisions of each Pac-Man to make them detect the other Pac-Men and change direction.
+
 ## License
 
 MIT License
